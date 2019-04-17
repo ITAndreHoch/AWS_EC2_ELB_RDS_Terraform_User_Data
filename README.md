@@ -13,5 +13,7 @@
  # Diagram
  
  
+ ![alt text](images/aws_tomcat2.png)
+ 
     
   
