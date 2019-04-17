@@ -8,5 +8,10 @@
     - Frontend - Load Balancer
     
     
-- Visualization of metrics using Grafana platforms
-- Showing the possibility of Prometheus in the *Hierarchical Federation* configuration
+ For automatic deployment is desiganted Terraform tool.
+ 
+ # Diagram
+ 
+ 
+    
+  
