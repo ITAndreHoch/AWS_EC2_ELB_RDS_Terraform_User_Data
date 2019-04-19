@@ -17,7 +17,8 @@
  
  
  
-  + create
+Terrarm  form will build the following services :
+
   + aws_db_instance.postgres
   + aws_db_subnet_group.subnetdb
   + aws_instance.oneweb-bastion
